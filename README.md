@@ -13,7 +13,7 @@ Produces Base64-URI Encoded UUIDs (purely random.)
 
     npm install uuid-pure
 
-    var uuid = require("uuid").uuid;
+    var uuid = require("uuid-pure").uuid;
     
 ##EXAMPLES:
         // No arguments  - returns RFC4122, version 4 ID
