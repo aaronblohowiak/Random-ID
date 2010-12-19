@@ -3,7 +3,7 @@
     "author": "Robert Kieffer <robert@broofa.com>, Packaged by Aaron Blohowiak <aaron.blohowiak@gmail.com>",
     "description": "Pure JavaScript UUID creation.",
     "keywords": ["uuid", "guid"],
-    "version": "1.0",
+    "version": "1.0.1",
     "homepage": "http://github.com/aaronblohowiak/Uuid-Pure-Js",
     "repository" : { 
       "type" : "git",
