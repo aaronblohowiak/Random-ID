@@ -1,7 +1,7 @@
 {
     "name": "uuid-pure",
     "author": "Robert Kieffer <robert@broofa.com>, Packaged by Aaron Blohowiak <aaron.blohowiak@gmail.com>",
-    "description": "Twilio API bindings for Node",
+    "description": "Pure JavaScript UUID creation.",
     "keywords": ["uuid", "guid"],
     "version": "1.0",
     "homepage": "http://github.com/aaronblohowiak/Uuid-Pure-Js",
