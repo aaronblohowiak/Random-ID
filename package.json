@@ -1,0 +1,22 @@
+{
+    "name": "uuid-pure",
+    "author": "Robert Kieffer <robert@broofa.com>, Packaged by Aaron Blohowiak <aaron.blohowiak@gmail.com>",
+    "description": "Twilio API bindings for Node",
+    "keywords": ["uuid", "guid"],
+    "version": "1.0",
+    "homepage": "http://github.com/aaronblohowiak/Uuid-Pure-Js",
+    "repository" : { 
+      "type" : "git",
+      "url" : "git://github.com/aaronblohowiak/Uuid-Pure-Js.git"
+    },
+    
+		"scripts": { "test": "expresso" },
+
+    "dependencies": {
+			"expresso":"0.7.0"
+		},
+
+    "main": "./uuid.js"
+    
+}
+
