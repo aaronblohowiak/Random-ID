@@ -1,13 +1,13 @@
 {
     "name": "uuid-pure",
-    "author": "Robert Kieffer <robert@broofa.com>, Packaged by Aaron Blohowiak <aaron.blohowiak@gmail.com>",
-    "description": "Pure JavaScript UUID creation.",
-    "keywords": ["uuid", "guid"],
-    "version": "1.0.1r1",
-    "homepage": "http://github.com/aaronblohowiak/Uuid-Pure-Js",
+    "author": "Aaron Blohowiak <aaron.blohowiak@gmail.com>",
+    "description": "Random ID generation.  NOT RFC COMPLIANT! Please use the excellent node-uuid if you would like a true UUID.",
+    "keywords": ["uuid", "random id"],
+    "version": "1.0.2",
+    "homepage": "http://github.com/aaronblohowiak/Random-ID",
     "repository" : { 
       "type" : "git",
-      "url" : "git://github.com/aaronblohowiak/Uuid-Pure-Js.git"
+      "url" : "git://github.com/aaronblohowiak/Random-ID.git"
     },
     
 		"scripts": { "test": "expresso" },
@@ -16,7 +16,7 @@
 			"expresso":"0.7.0"
 		},
 
-    "main": "./uuid.js"
+    "main": "./random-id.js"
     
 }
 
