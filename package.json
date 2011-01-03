@@ -3,7 +3,7 @@
     "author": "Aaron Blohowiak <aaron.blohowiak@gmail.com>",
     "description": "Random ID generation.  NOT RFC COMPLIANT! Please use the excellent node-uuid if you would like a true UUID.",
     "keywords": ["uuid", "random id"],
-    "version": "1.0.2",
+    "version": "1.0.3",
     "homepage": "http://github.com/aaronblohowiak/Random-ID",
     "repository" : { 
       "type" : "git",
@@ -16,7 +16,7 @@
 			"expresso":"0.7.0"
 		},
 
-    "main": "./random-id.js"
+    "main": "./uuid.js"
     
 }
 
